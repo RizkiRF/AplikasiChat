@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\da8dea67690b666ea39e8b096846c52dd08472c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_755863381b57867f0bbc30fa637fd410628033e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\SDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_2be2b3366f87974c83004ead43d8d3f3895f5a6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\1a4f11d55215b5a6df71d2c45b0337e86d0c6a55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_7194832079099cc1521fdf5b67fa7783081d2094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\43db13a900a2f028d4dbfa0681bc59c68f95cd31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_737f8e3b6313216401b4022f64d4536c2e8a7e9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\7556ed9d3afd9364de06b6c878e6cc80e3674a1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_441c405a44a64f39f70082be08a91c1de2a4f7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\4fa9ea81ef4f7d504bf4c512fbaabeafb4166f0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_d173dc1f45dd5ac4dc3b68e125071fa6fde75bd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\7556ed9d3afd9364de06b6c878e6cc80e3674a1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_441c405a44a64f39f70082be08a91c1de2a4f7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\eba3c2452b4d1969e2dd1068ab3251e7ba6033e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_9f2145be94cf303184c3b2ad318286f480bf31d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\eafa8f8008c7005fc1d6513f2075d5ce7a8ff104\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_67d7be40b2fd3c67c5155393d399fa81443bc114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\eba3c2452b4d1969e2dd1068ab3251e7ba6033e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_9f2145be94cf303184c3b2ad318286f480bf31d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\09b3b60660bd5ac2fe6cb720e206682287071b4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_bfb9c5aa15257a1fd3b15ac9d312985e31613d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\d878ddbdc03bfeee987b12a55111d4b82469b442\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_1bf3ac5b1e2a0690b8cdfba5cbdbed5175c701e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\8df5dd919486dde1ad92e9f454f5e7a731bf6201\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_68ee626b3c1076671acb5a0b7e4c26a9e4a0e5bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\4cc5fb59972b2bd63c565f23044a3956508f53a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_6f8179acd328f6051d7e71fd355c4299956febf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_2ef7c052435ba9713a511e5163b4a9a82de45d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\669f1c6bd85db4c957d8bc3e15aa684e4ccb9086\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_5df9bb30c5835f1afe2f6588615660f7282ceeb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\6cc2241d3661aef428f649b2c0271d585707a521\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_b53de2b048316c3efda77c280de54e771c23ad5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RN\.android\build-cache\3cda3603dd427b90617c2b5fddbf7a01478d803d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="I:\PerbaikanUTS\app\build\intermediates\pre-dexed\debug\classes_22ee92c5ea5a8568852ee3c0afae22c7d02f64dc.jar" />
+    </item>
+
+</items>
